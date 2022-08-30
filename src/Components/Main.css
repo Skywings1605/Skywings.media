@@ -1,0 +1,38 @@
+.top {
+    background-image: url("../Images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 20%;
+    padding-bottom: 23%;
+    padding-left: 7%;
+    margin-top: -90px;
+}
+.topContent {
+    width: 45%;
+    /* line-height: 23px; */
+    align-items: left;
+    text-align: left;
+    
+}
+.big {
+    font-size: 80px;
+    margin-top: -30px;
+    margin-bottom: 0px;
+    font-weight: bold;
+
+}
+.blue {
+    color: #488eff
+}
+.we {
+    line-height: 23px;
+    font-size: 20px;
+}
+.slides {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.viewbtn {
+    border-radius: 10px;
+    padding: 5px;
+}
